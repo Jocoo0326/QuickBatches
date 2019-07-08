@@ -17,3 +17,5 @@ adb pull /sdcard/screen.png %Timestamp%.png
 
 :: remove the capture iamge in the phone
 adb shell rm /sdcard/screen.png
+
+pause
